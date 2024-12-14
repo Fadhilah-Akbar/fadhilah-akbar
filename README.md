@@ -25,7 +25,10 @@ SOFTWARE ENGINEER
 - ⚡ **Fun fact**: I love taking power naps during the day to recharge and boost my productivity.
 
 ## 🌐 Live Project:
-- 💵 **MyFinance** APP: ![Dollar](https://img.shields.io/badge/Dollar-%2300C853.svg?style=for-the-badge&logo=usd&logoColor=white)
+- 💵 **MyFinance** APP: 
+
+## Support My Project
+- Saweria : https://saweria.co/fadhildev
 
 ## 💬 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fadhilah_akbar1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadhilah-akbar/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@_akbar18f)
