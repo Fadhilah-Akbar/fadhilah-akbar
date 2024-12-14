@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-![bit.ly/fadhilah-akbar](bit.ly/fadhilah-akbar)
+https://bit.ly/fadhilah-akbar
 
 SOFTWARE ENGINEER
 
