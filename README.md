@@ -27,7 +27,7 @@ SOFTWARE ENGINEER
 ## 🌐 Live Project:
 - 💵 **MyFinance** APP: 
 
-## Support My Project
+## 🛠️ Support US : 
 - Saweria : https://saweria.co/fadhildev
 
 ## 💬 Socials
