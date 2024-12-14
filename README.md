@@ -20,7 +20,7 @@ SOFTWARE ENGINEER
 - 🔭 **Currently working** as a Software Engineer (Outsource) at PT. Bank Rakyat Indonesia
 - 🌱 **Learning** about programming, including Web Development, Mobile Development, and APIs
 - 💬 **Feel free to ask me** about programming
-- 📫 **How to reach me**: ![bit.ly/fadhilah-akbar](bit.ly/fadhilah-akbar)
+- 📫 **How to reach me**: https://bit.ly/fadhilah-akbar
 - 😄 **Pronouns**: he/him
 - ⚡ **Fun fact**: I love taking power naps during the day to recharge and boost my productivity.
 
