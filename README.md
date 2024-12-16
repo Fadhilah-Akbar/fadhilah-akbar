@@ -27,7 +27,7 @@ SOFTWARE ENGINEER
 - ⚡ **Fun fact**: I love taking power naps during the day to recharge and boost my productivity.
 
 ## 🌐 Live Project:
-- 💵 **MyFinance** APP: 
+- 💵 **MyFinance** APP : http://myfinance-orca.ct.ws/
 
 ## 🛠️ Support US : 
 - Saweria : https://saweria.co/fadhildev
